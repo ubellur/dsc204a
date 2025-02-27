@@ -6,13 +6,13 @@ nav_exclude: false
 permalink: index.html
 seo:
   type: Course
-  name: DSC 204A Winter 2024
+  name: DSC 204A Spring 2025
 ---
 
 # DSC 204A: Scalable Data Systems
 
 {: .mb-2 }
-Instructor: Hao Zhang, UC San Diego, Winter 2024
+Instructor: Umesh Bellur, UC San Diego, Spring 2025
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
