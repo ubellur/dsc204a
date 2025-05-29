@@ -7,11 +7,11 @@ status: Active
 
 Classes
 : {: .label} Introduction to Distributed Systems
-  : [Slides](https://drive.google.com/file/d/1ejFGzIBeSrQmmpv9MFX-B3yeC9menZGZ/view?usp=share_link) &#8226; [Scribe Notes](assets/scribe_notes/scribe_05021.pdf)
+  : [Slides](https://drive.google.com/file/d/1ejFGzIBeSrQmmpv9MFX-B3yeC9menZGZ/view?usp=share_link) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0521.pdf)
 
 
 : {: .label} Scaleable Storage and Search - the CHORD System
-  : [Slides](https://drive.google.com/file/d/1stjtrMW7f1IrLbFue4fRq7LLJU-qKLrA/view?usp=share_link) &#8226; [Scribe Notes](assets/scribe_notes/scribe_05023.pdf)
+  : [Slides](https://drive.google.com/file/d/1stjtrMW7f1IrLbFue4fRq7LLJU-qKLrA/view?usp=share_link) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0523.pdf)
 
   
   
