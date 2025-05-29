@@ -13,7 +13,7 @@ Classes
   : [Collective Comm](https://drive.google.com/file/d/1UaxgmL0efpZoHhOJ_AQjb2_x1sCiKnv0/view?usp=share_link) 
 
 : {: .label} Collective Communication - Bucket Algorithms
-  : [Bucket Algorithms](https://drive.google.com/file/d/1rn6_nCWok5aAYUBkUEvNK1M0ZH2ZjeKq/view?usp=share_link) &#8226; [Scribe Notes](assets/scribe_notes/scribe_05014.pdf)
+  : [Bucket Algorithms](https://drive.google.com/file/d/1rn6_nCWok5aAYUBkUEvNK1M0ZH2ZjeKq/view?usp=share_link) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0514.pdf)
 
 : *Required Reading*
 * [Collective Communication - Theory, Practice and Experience Section 1-6](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
