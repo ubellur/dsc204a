@@ -8,7 +8,7 @@ Classes
 : {: .label} ML Systems
   : [Slides](https://drive.google.com/file/d/1E-vV5zT8UAsLOup6uADJx-62gKelVbzm/view?usp=sharing)
   
-: {: .label} Guest Lecture by Zhijian Liu (NVIDIA) on Sparsity and Quantization
+: {: .label} Guest Lecture by Zhijian Liu (NVIDIA) on Sparsity and Quantization [Details](https://piazza.com/class/m7mck2x8sid6oq/post/149) 
 
 : {: .label} Wrap up
 
