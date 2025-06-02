@@ -11,7 +11,7 @@ Classes
 : {: .label} Distributed Consensus with RAFT
   : [Slides](https://drive.google.com/file/d/1bFrBzZRkG2QYPV4tr1IPF1U7Z83qIMcb/view?usp=share_link)
 
-: {: .label} May 30th - Guest Lecture, Dr. Dan Fu - Enabling Efficient ML Algorithms via Kernels
+: {: .label} May 30th - Guest Lecture, Dr. Dan Fu - Enabling Efficient ML Algorithms via Kernels [Recording](https://drive.google.com/file/d/12Uyy7m231unIA_idc_vNuW1Mr-ID-_za/view?usp=sharing) 
 
 : *Required Reading*
 * [TensorFlow: A system for large-scale machine learning (required)](https://arxiv.org/pdf/1605.08695.pdf)
