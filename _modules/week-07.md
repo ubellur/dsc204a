@@ -7,13 +7,13 @@ status: Active
 Classes
 : {: .label} Networking fundamentals continued from Week 6 
 : {: .label} Remote Communication
-   : [Remote IPC](https://drive.google.com/file/d/1MYMQUkYVIoaYeSJy0BtqjsIEOivy0Vp3/view?usp=share_link)
+   : [Remote IPC](https://drive.google.com/file/d/1MYMQUkYVIoaYeSJy0BtqjsIEOivy0Vp3/view?usp=share_link) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0512.pdf)
 
 : {: .label} Collective Communication
-  : [Collective Comm](https://drive.google.com/file/d/1UaxgmL0efpZoHhOJ_AQjb2_x1sCiKnv0/view?usp=share_link) 
+  : [Collective Comm](https://drive.google.com/file/d/1UaxgmL0efpZoHhOJ_AQjb2_x1sCiKnv0/view?usp=share_link) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0514.pdf)
 
 : {: .label} Collective Communication - Bucket Algorithms
-  : [Bucket Algorithms](https://drive.google.com/file/d/1rn6_nCWok5aAYUBkUEvNK1M0ZH2ZjeKq/view?usp=share_link) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0514.pdf)
+  : [Bucket Algorithms](https://drive.google.com/file/d/1rn6_nCWok5aAYUBkUEvNK1M0ZH2ZjeKq/view?usp=share_link) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0516.pdf)
 
 : *Required Reading*
 * [Collective Communication - Theory, Practice and Experience Section 1-6](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
